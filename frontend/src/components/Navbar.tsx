@@ -15,7 +15,7 @@ const Navbar = () => {
   return (
     <div>
       <div className="flex justify-between ">
-        <div className="flex gap-[200px]">
+        <div className="flex sm:gap-[40px] md:gap-[100px] ld:gap-[200px]">
           <div className="flex justify-center items-center">
             <img src="Group 164.png" />
           </div>
